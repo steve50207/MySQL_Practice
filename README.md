@@ -83,8 +83,8 @@
 ## 執行結果:
 - create.py
     - 建立database demo
-        - Python: ![](https://hackmd.io/_uploads/rkw8kHOp2.png)
-        - MySQL: ![](https://hackmd.io/_uploads/rJkx7Kdph.png)
+    - Python: ![](https://hackmd.io/_uploads/rkw8kHOp2.png)
+    - MySQL: ![](https://hackmd.io/_uploads/rJkx7Kdph.png)
     - 在database demo內建立以下table:
         - employee: 公司員工資料
             - emp_id: 
