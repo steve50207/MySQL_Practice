@@ -83,8 +83,8 @@
 ## 執行結果:
 - create.py
     - 建立database demo
-    - Python: ![](https://hackmd.io/_uploads/rkw8kHOp2.png)
-    - MySQL: ![](https://hackmd.io/_uploads/rJkx7Kdph.png)
+        - Python: ![](https://hackmd.io/_uploads/rkw8kHOp2.png)
+        - MySQL: ![](https://hackmd.io/_uploads/rJkx7Kdph.png)
     - 在database demo內建立以下table:
         - employee: 公司員工資料
             - emp_id: 
@@ -295,17 +295,20 @@
 
 - delete.py
     - 刪除表格資料
-        - 刪除表格單筆資料
+        - 刪除公司資料庫表格資料，觀察FOREIGN KEY ON DELETE設定的影響
             - 刪除Employee小綠資料
-                - Python: 
-                    - ![](https://hackmd.io/_uploads/rkElmrjah.png)
-                    - ![](https://hackmd.io/_uploads/rJRMNSj63.png)
-                    - ![](https://hackmd.io/_uploads/B1hmEHsph.png)
-                - MySQL: 
-                    - ![](https://hackmd.io/_uploads/HyMiQBsT3.png)
-                    - ![](https://hackmd.io/_uploads/Bya_EHjan.png)
-                    - ![](https://hackmd.io/_uploads/SyzRQBi63.png)
-
+                - ON DELETE SET NULL
+                    - Python: 
+                        - ![](https://hackmd.io/_uploads/rkElmrjah.png)
+                        - ![](https://hackmd.io/_uploads/rJRMNSj63.png)  
+                    - MySQL: 
+                        - ![](https://hackmd.io/_uploads/HyMiQBsT3.png)
+                        - ![](https://hackmd.io/_uploads/Bya_EHjan.png)
+                - ON DELETE CASCADE
+                    - Python: 
+                        - ![](https://hackmd.io/_uploads/B1hmEHsph.png)
+                    - MySQL:
+                        - ![](https://hackmd.io/_uploads/SyzRQBi63.png)
 
 ## 相關連結:
 - [【資料庫】SQL 初學者教學](https://www.youtube.com/watch?v=gvRXjsrpCHw&list=LL)
