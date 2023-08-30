@@ -1,8 +1,8 @@
-# Python-MySQL-Demo
+# Python-Connect-MySQL-Demo
 
 ###### tags `SQL`
 
-## 專案動機: 
+## 專案動機
 - 近期正在進行軟體測試面試，有鑑於在前公司負責專案有使用到SQL進行資料庫驗證測試，因此開立此專案進行複習與練習，亦作為面試Demo使用。
 
 
@@ -11,7 +11,7 @@
 - ![image](https://github.com/steve50207/Python-Connect-MySQL-Demo/blob/main/png/1.png)
 
 
-## 專案工具:
+## 專案工具
 - 本項專案使用以下工具:
     - Python:
         -  透過Python搭配mysql-connector-python套件，
