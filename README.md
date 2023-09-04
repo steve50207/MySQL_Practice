@@ -7,7 +7,7 @@
 
 
 ## 專案目標
-- 利用Python與MySQL資料庫建立連線，並建立公司資料庫(如下圖所示)，進行增加(CREATE)、更新(UPDATE)、查詢(READ)、刪除(DELETE)等操作，最後把Python與MySQL兩者執行結果進行比對，驗證Python執行結果正確性。
+- 利用Python與MySQL資料庫建立連線，並建立公司資料庫(如下圖所示)，進行新增(CREATE)、更新(UPDATE)、查詢(READ)、刪除(DELETE)等操作，最後把Python與MySQL兩者執行結果進行比對，驗證Python執行結果正確性。
 - ![image](https://github.com/steve50207/Python-Connect-MySQL-Demo/blob/main/png/1.png)
 
 
