@@ -2,11 +2,6 @@
 
 ###### tags `SQL`
 
-## 相關連結
-- [Python-Connect-MySQL-Demo專案連結](https://github.com/steve50207/Python-Connect-MySQL-Demo)
-- [【資料庫】SQL 初學者教學](https://www.youtube.com/watch?v=gvRXjsrpCHw&list=LL)
-- [MySQL YT影片練習筆記](https://hackmd.io/@MJUsbP-5S_-z1aM5n6NvlQ/rJ98RF5in)
-
 ## 專案動機
 - 近期正在進行軟體測試面試，有鑑於在前公司負責專案有使用到SQL進行資料庫驗證測試，因此開立此專案進行複習與練習，亦作為面試Demo使用。
 
@@ -317,5 +312,8 @@
                     - MySQL:
                         - ![image](https://github.com/steve50207/Python-Connect-MySQL-Demo/blob/main/png/81.png)
 
-
+## 相關連結
+- [Python-Connect-MySQL-Demo專案連結](https://github.com/steve50207/Python-Connect-MySQL-Demo)
+- [【資料庫】SQL 初學者教學](https://www.youtube.com/watch?v=gvRXjsrpCHw&list=LL)
+- [MySQL YT影片練習筆記](https://hackmd.io/@MJUsbP-5S_-z1aM5n6NvlQ/rJ98RF5in)
 
